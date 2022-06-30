@@ -1670,3 +1670,6 @@ C:\AnypointStudio\configuration\org.eclipse.osgi\768\data\.runtimes\tooling-sbj8
 
 !ENTRY org.mule.tooling.runtime 2 0 2022-06-30 19:49:24.538
 !MESSAGE Termination command ShellTerminationCommand [getTerminationCommand()=[taskkill, /F, /PID, 31256]] indicate retry action is necessary, moving on to next one
+
+!ENTRY org.mule.tooling.ui.contribution.munit 1 1 2022-06-30 19:53:54.967
+!MESSAGE Deleting MUnit temporary folder in C:\Users\PABLOH~1.BRI\AppData\Local\Temp\munit-temp-dir
